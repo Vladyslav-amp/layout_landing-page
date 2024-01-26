@@ -12,6 +12,7 @@
 .category {
   &__photos {
     @include pageGrid;
+    
     margin-bottom: 16px;
   }
 
